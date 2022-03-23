@@ -1,3 +1,3 @@
 # continuous-sign-language-recognition
-CNN+BiLSTM+CTC+streamlit
+CNN+BiLSTM+CTC+streamlit <br/>
 in progress
