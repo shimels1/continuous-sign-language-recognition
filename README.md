@@ -3,6 +3,11 @@
 
 This project focuses on **Continuous Ethiopian Sign Language (EthSL) Recognition** using **Machine Learning models** such as **BiLSTM (Bidirectional Long Short-Term Memory) and CTC (Connectionist Temporal Classification)**. The system is designed to recognize continuous sign language gestures and convert them into text, aiding communication for the deaf and hard-of-hearing community.
 
+## Screenshots
+
+
+![ScreenShot](https://github.com/shimels1/continuous-sign-language-recognition/blob/main/screenshot/SLR_dashboard.PNG)
+
 ## Features
 
 - **Real-time Sign Language Recognition**: Converts continuous Ethiopian Sign Language (EthSL) gestures into text.
@@ -95,10 +100,6 @@ Before running the project, ensure you have the following installed:
 
 - The model will capture video input, process the gestures, and output the recognized text.
 
-## Screenshots
-
-
-![ScreenShot](https://github.com/shimels1/continuous-sign-language-recognition/blob/main/screenshot/SLR_dashboard.PNG)
 
 ## Future Enhancements
 
